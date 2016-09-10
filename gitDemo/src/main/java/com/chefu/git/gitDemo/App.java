@@ -10,8 +10,5 @@ public class App
     {
 
         System.out.println( "Hello World! @@@@@@@@@@@@@@@@@" );
-        System.out.println( "Hello World! 11111111111111111" );
-        System.out.println( "Hello World! 11111111111111111" );
-        System.out.println( "Hello World! 333333333333" );
     }
 }
